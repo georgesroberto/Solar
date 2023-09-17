@@ -14,7 +14,7 @@ A small animation on the solar system
 Developed by:
 ### Languages:
 
-1. HTNL
+1. HTML
 2. CSS
 
 ### IDE
